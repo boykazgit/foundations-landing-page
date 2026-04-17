@@ -11,3 +11,12 @@ There were few bottlenecks in creating this but overcame them and was able to pr
 I also have high hopes going forward to learn more and to get better overall in webdevelopment.
 
 Thanks to the odin community for providing such a wonderful resource for learning web development. 
+
+Attribution for the images in my project
+
+Photo by <a href="https://unsplash.com/@_ferh97?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fernando Hernandez</a> on <a href="https://unsplash.com/photos/black-flat-screen-computer-monitor-on-black-wooden-desk-vSI8ASKyMJ8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@douglasamarelo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Douglas Lopes</a> on <a href="https://unsplash.com/photos/a-computer-desk-with-two-monitors-and-a-mouse-OQT9s7fHeO0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
+Photo by <a href="https://unsplash.com/@bbestamis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bestami Sarıkaya</a> on <a href="https://unsplash.com/photos/black-flat-screen-computer-monitor-xH6lRUeWMb0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
